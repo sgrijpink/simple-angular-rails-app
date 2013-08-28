@@ -16,3 +16,7 @@
 /tmp
 
 public/
+
+# Ignore IntelliJ files
+/.idea
+/*.iml
